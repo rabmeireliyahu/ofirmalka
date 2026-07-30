@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>הרב אופיר מלכא - הלכה למעשה</title>
-    <description>שיעורים מהגאון הרב אופיר מלכא שליט"א - הלכה למעשה - אוצר התורה</description>
+    <description>הלכה למעשה מפי הגאון הרב אופיר מלכא שליט"א. שאלות ותשובות בהלכה יומית, הלכות שבת, כשרות, ברכות ומועדי ישראל, חידוני הלכה ושיעורים מבית המדרש "יביע אומר" - אוצר התורה.</description>
+    <itunes:summary>הלכה למעשה מפי הגאון הרב אופיר מלכא שליט"א. שאלות ותשובות בהלכה יומית, הלכות שבת, כשרות, ברכות ומועדי ישראל, חידוני הלכה ושיעורים מבית המדרש "יביע אומר" - אוצר התורה.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/ofirmalka</link>
     <language>he</language>
     <itunes:author>הרב אופיר מלכא שליט"א</itunes:author>
