@@ -2207,5 +2207,14 @@
       <itunes:duration>00:55:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>הרב אופיר מלכא · שיעור 25-10-2026</title>
+      <description>הרב אופיר מלכא · שיעור 25-10-2026</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/harav-ofir-malka-shiurim/%D7%94%D7%A8%D7%91%20%D7%90%D7%95%D7%A4%D7%99%D7%A8%20%D7%9E%D7%9C%D7%9B%D7%90%20%C2%B7%20%D7%A9%D7%99%D7%A2%D7%95%D7%A8%2025-10-2026.mp3" length="352064" type="audio/mpeg"/>
+      <guid isPermaLink="false">הרב אופיר מלכא · שיעור 25-10-2026.mp3</guid>
+      <pubDate>Sun, 08 Nov 2026 20:41:17 -0000</pubDate>
+      <itunes:duration>00:00:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
